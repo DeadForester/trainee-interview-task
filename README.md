@@ -1,1 +1,1 @@
-# trainee-interview-task
+# Тестовое задание
